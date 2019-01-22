@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo pacman -S firefox
+sudo pacman -S vivaldi
 
 echo "################################################################"
 echo "###################    Install Done       ######################"
